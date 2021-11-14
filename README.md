@@ -1,8 +1,12 @@
-[![MasterHead](https://github.com/ambigarnikhil/ambigarnikhil/blob/main/Dream%20Big%20Achieve%20Big.png)](https://ambigarnikhil.github.io)
+
+
 <h1 align="center">Hi 👋, I'm Nikhil Ambigar<3!</h1>
 <h3 align="center">Relax</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambigarnikhil" alt="ambigarnikhil" /></a> </p>
+  
+ <img align="right" alt="Coding" width="400" src="https://github.com/ambigarnikhil/ambigarnikhil/blob/main/its-about-dreaming-big-dream-big.gif">
+
 
 - 📫 How to reach me **ambigarnikhil@gmail.com**
 
